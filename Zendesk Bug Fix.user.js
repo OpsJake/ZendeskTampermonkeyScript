@@ -9,8 +9,8 @@
 // @match        https://remotasks.zendesk.com/agent/tickets/*
 // @match        https://remotask.com/en/remoadmin/tools/lookup/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=zendesk.com
-// @downloadURL  https://drive.google.com/uc?export=download&id=1m9RE454Iy8j_2C2ZSQD_d1P_2Y6OW8E9
-// @updateURL    https://drive.google.com/uc?export=download&id=1m9RE454Iy8j_2C2ZSQD_d1P_2Y6OW8E9
+// @downloadURL  https://github.com/OpsJake/ZendeskTampermonkeyScript/raw/main/Zendesk%20Bug%20Fix.user.js
+// @updateURL    https://github.com/OpsJake/ZendeskTampermonkeyScript/raw/main/Zendesk%20Bug%20Fix.user.js
 // @grant        none
 // ==/UserScript==
 
